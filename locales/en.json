@@ -30,7 +30,8 @@
     "description": "MiroFish - Social Media Opinion Simulation System"
   },
   "nav": {
-    "visitGithub": "Visit our Github page"
+    "visitGithub": "Visit our Github page",
+    "forecast": "Traffic Forecast"
   },
   "home": {
     "tagline": "Concise & Universal Swarm Intelligence Engine",
